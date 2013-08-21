@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ios-webview-test", "src\ios-webview-test\ios-webview-test.csproj", "{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Release|iPhone.Build.0 = Release|iPhone
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BAE1B4C8-39CD-463F-B2EA-FBAA8E541151}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Debug|iPhone.Build.0 = Debug|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Release|iPhone.Build.0 = Release|iPhone
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7464E31D-0D8B-4DD7-98D4-96EC1B1F5C39}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = src\ios-web-host\ios-webview-test.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
