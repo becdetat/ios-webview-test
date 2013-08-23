@@ -88,6 +88,8 @@
     <Compile Include="AppDelegate.cs" />
     <Compile Include="WebViewController.cs" />
     <Compile Include="Main.cs" />
+    <Compile Include="LocalWebViewController.cs" />
+    <Compile Include="MtRnCachingUrlProtocol.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\first.png" />
@@ -99,4 +101,10 @@
     <BundleResource Include="Info.plist" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Web\index.html" />
+  </ItemGroup>
 </Project>

@@ -1,6 +1,33 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ios-webview-test/MtRnCachingUrlProtocol.cs">
+    <Files>
+      <File FileName="src/ios-webview-test/WebViewController.cs" Line="25" Column="1" />
+      <File FileName="src/ios-webview-test/Main.cs" Line="1" Column="1" />
+      <File FileName="src/ios-webview-test/AppDelegate.cs" Line="17" Column="80" />
+      <File FileName="src/ios-webview-test/LocalWebViewController.cs" Line="22" Column="1" />
+      <File FileName="src/ios-webview-test/Content/Web/index.html" Line="1" Column="1" />
+      <File FileName="src/ios-webview-test/MtRnCachingUrlProtocol.cs" Line="46" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ios-webview-test" expanded="True">
+            <Node name="Content" expanded="True">
+              <Node name="Web" expanded="True" />
+            </Node>
+            <Node name="MtRnCachingUrlProtocol.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
